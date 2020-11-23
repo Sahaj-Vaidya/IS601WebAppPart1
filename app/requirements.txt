@@ -1,3 +1,6 @@
 Flask
 mysql-connector
+flask-mysql
+pymysql
+flask-ext
 simplejson
